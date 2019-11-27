@@ -16,7 +16,7 @@ public class Mytest {
 		}else
 		System.out.println("可以继续使用");
 		
-		
+		//hahhahahaha
 		
 		
 		//将字符串形式的时间转化为Date类型的时间
